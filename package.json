@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fusho-takahashi/skyway-app/issues"
   },
-  "homepage": "https://github.com/fusho-takahashi/skyway-app#readme"
+  "homepage": "https://github.com/fusho-takahashi/skyway-app#readme",
+  "dependencies": {
+    "skyway-js": "^4.4.0"
+  }
 }
